@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently improving my skills on ** Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://itsrajat.xyz](My portfolio) and [https://github.com/rajat-0206](Github)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://itsrajat.xyz) and [Github](https://github.com/rajat-0206)
 
 - 💬 Ask me about **Web Development**
 
