@@ -2,9 +2,9 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Rajat Shrivastava</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajathandsom&label=Profile%20views&color=0e75b6&style=flat" alt="rajathandsom" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajat-0206&label=Profile%20views&color=0e75b6&style=flat" alt="rajathandsom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajathandsom" alt="rajathandsom" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajat-0206" alt="rajathandsom" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajathandsom" target="blank"><img src="https://img.shields.io/twitter/follow/rajathandsom?logo=twitter&style=for-the-badge" alt="rajathandsom" /></a> </p>
 
